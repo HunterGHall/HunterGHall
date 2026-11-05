@@ -1,6 +1,6 @@
 ## Hi, I'm Hunter
 
-I'm a self-taught developer. I build tools for OSINT and security, plus whatever side projects grab my interest.
+I’m a self-taught developer who builds whatever I wish already existed.
 
 ### Stack
 
