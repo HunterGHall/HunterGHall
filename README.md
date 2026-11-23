@@ -10,6 +10,20 @@
 
 ---
 
+### Projects
+
+<p align="left">
+  <a href="https://github.com/HunterGHall/vinyl">
+    <img width="495" src="https://github-readme-stats.vercel.app/api/pin/?username=HunterGHall&repo=vinyl&theme=github_dark&hide_border=true&card_width=495" alt="vinyl" />
+  </a>
+  <br />
+  <a href="https://github.com/HunterGHall/jarvis">
+    <img width="495" src="https://github-readme-stats.vercel.app/api/pin/?username=HunterGHall&repo=jarvis&theme=github_dark&hide_border=true&card_width=495" alt="jarvis" />
+  </a>
+</p>
+
+---
+
 ### Stats
 
 <p align="left">
