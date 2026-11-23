@@ -1,13 +1,12 @@
 ## Hi, I'm Hunter
 
-I’m a self-taught developer who builds whatever I wish already existed.
-
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=py,js,ts,c,rust,postgres,docker)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=py,swift,rust)](https://skillicons.dev)
 
 ---
 
-> *"I live with the confidence that if I believe in myself, the money will follow."*
->
-> — Marty Mauser, *Marty Supreme*
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunterGHall&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HunterGHall&layout=compact&hide_border=true)
